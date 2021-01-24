@@ -21,3 +21,5 @@ function test() {
 `git add [file.txt]` **file.txt файлыг стэйжилнэ**
 
 `git remote prune [remote_name]` **Локал дээрх remote_name remote-ийг цэвэрлэнэ** `v45|07:36`
+
+`git branch` **Бүх бранчуудыг жагсаалтаар харах**
