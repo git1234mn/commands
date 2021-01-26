@@ -1,14 +1,14 @@
 ## Git командууд :octocat:
+
 git командуудын тайлбар цагаан толгойн үсгийн дарааллаар. Нэмэлт мэдээллийг [https://1234.mn/course/108](https://1234.mn/course/108)
 
 git эхнээс нь дуустал гэдэг сургалт дээр үзсэн командууд болон сурагчдын оролцоотойгоор хөгжүүлэгдэж буй репо юм.
 
 ```javascript
 function test() {
- console.log("look ma’, no spaces");
+  console.log("look ma’, no spaces");
 }
 ```
-
 
 ## Командуудын жагсаалт :sparkles:
 
@@ -19,5 +19,7 @@ function test() {
 `git add -А` **Бүх шинэ болон өөрчлөгдсөн файлуудыг стэйжилнэ**
 
 `git add [file.txt]` **file.txt файлыг стэйжилнэ**
+
+`git branch -r ` **Remote бранчуудыг үзүүлнэ**
 
 `git remote prune [remote_name]` **Локал дээрх remote_name remote-ийг цэвэрлэнэ** `v45|07:36`
