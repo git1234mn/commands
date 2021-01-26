@@ -26,4 +26,6 @@ function test() {
 
 `git branch -vv ` **Tracking бранчуудыг үзүүлнэ**
 
+`git config user.email [email_address] ` **github-д бүртгэлтэй имэйл хаягаа энд тохируулна**
+
 `git remote prune [remote_name]` **Локал дээрх remote_name remote-ийг цэвэрлэнэ** `v45|07:36`
