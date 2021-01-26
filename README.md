@@ -20,6 +20,8 @@ function test() {
 
 `git add [file.txt]` **file.txt файлыг стэйжилнэ**
 
+`git branch -a ` **Бүх бранчуудыг үзүүлнэ**
+
 `git branch -r ` **Remote бранчуудыг үзүүлнэ**
 
 `git branch -vv ` **Tracking бранчуудыг үзүүлнэ**
