@@ -32,4 +32,6 @@ function test() {
 
 `git config user.email [email_address] ` **Өөрийн имэйлийг энд тохируулна (github username ээ тавьж github руу push хийнэ)**
 
+`git reflog` **Коммитуудын түүхийг жагсаалтаар харах ** `v59|03:11`
+
 `git remote prune [remote_name]` **Локал дээрх remote_name remote-ийг цэвэрлэнэ** `v45|07:36`
