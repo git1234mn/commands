@@ -36,4 +36,6 @@ function test() {
 
 `git remote prune [remote_name]` **Локал дээрх remote_name remote-ийг цэвэрлэнэ** `v45|07:36`
 
+`git reset --hard [hash_code]` **Тухайн hash_code-той коммитруу шилжих, түүнээс хойшхи коммитууд хүчингүй болно** `v59|05:06`
+
 `git show [hash_code]` **Тухайн коммитын дэлгэрэнгүй мэдээллийг харуулна** `v59|03:46`
