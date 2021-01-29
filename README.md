@@ -20,6 +20,8 @@ function test() {
 
 `git add [file.txt]` **file.txt файлыг стэйжилнэ**
 
+`git branch` **Бүх бранчуудыг жагсаалтаар харах**
+
 `git branch -a ` **Бүх бранчуудыг үзүүлнэ**
 
 `git branch -r ` **Remote бранчуудыг үзүүлнэ**
@@ -31,5 +33,3 @@ function test() {
 `git config user.email [email_address] ` **Өөрийн имэйлийг энд тохируулна (github username ээ тавьж github руу push хийнэ)**
 
 `git remote prune [remote_name]` **Локал дээрх remote_name remote-ийг цэвэрлэнэ** `v45|07:36`
-
-`git branch` **Бүх бранчуудыг жагсаалтаар харах**
