@@ -35,3 +35,5 @@ function test() {
 `git reflog` **Коммитуудын түүхийг жагсаалтаар харах ** `v59|03:11`
 
 `git remote prune [remote_name]` **Локал дээрх remote_name remote-ийг цэвэрлэнэ** `v45|07:36`
+
+`git show [hash_code]` **Тухайн коммитын дэлгэрэнгүй мэдээллийг харуулна** `v59|03:46`
