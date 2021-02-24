@@ -34,11 +34,11 @@ git командуудын тайлбар цагаан толгойн үсгий
 
 `git reflog --all` **Коммитуудын түүхийг дэлгэрэнгүй жагсаалтаар харах** `v58|09:59`
 
-`git remote add [remote_name] [remote_url]` **remote_name нэртэй, remote_url хаягтай remote-ийг шинээр үүсгэнэ ** `v45|07:36`
+`git remote add [remote_name] [remote_url]` **remote_name нэртэй, remote_url хаягтай remote-ийг шинээр үүсгэнэ **
 
 `git remote prune [remote_name]` **Локал дээрх remote_name remote-ийг цэвэрлэнэ** `v45|07:36`
 
-`git reset --hard [hash_code]` **Тухайн hash_code-той коммитруу шилжих, түүнээс хойшхи коммитууд хүчингүй болно**
+`git reset --hard [hash_code]` **Тухайн hash_code-той коммитруу шилжих, түүнээс хойшхи коммитууд хүчингүй болно** `v58|05:06`
 
 `git reset --hard [HEAD@{number_commit}]` **Тухайн HEAD-ын дугаарыг ашиглан коммитруу шилжих, түүнээс хойшхи коммитууд хүчингүй болно** `v58|05:45`
 
