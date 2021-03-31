@@ -44,6 +44,10 @@ git командуудын тайлбар цагаан толгойн үсгий
 
 `git reflog --all` **Коммитуудын түүхийг дэлгэрэнгүй жагсаалтаар харах** `v58|09:59`
 
+`git rebase [branch_name]` **branch_name бранч дээр тулгуурлан одоо байгаа бранчийг дахин байрлуулж branch_name бранчын бүх кодыг одоо байгаа бранч руу оруулж ирнэ, түүхийг өөрчилж бичдэг боловч түүхийг шулуун болгож өгнө** `v76`
+
+`git rebase -i [branch_name]` ** Interactive rebasing: (Хөгжүүлэгч коммит бүр дээр яахыг өөрөө сонгож rebase хийнэ) ** `v81`
+
 `git remote add [remote_name] [remote_url]` **remote_name нэртэй, remote_url хаягтай remote-ийг шинээр үүсгэнэ **
 
 `git remote prune [remote_name]` **Локал дээрх remote_name remote-ийг цэвэрлэнэ** `v45|07:36`
